@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "factorselect"]
+	path = factorselect
+	url = https://github.com/penny4nonsense/factorselect
